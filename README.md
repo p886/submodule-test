@@ -1,3 +1,3 @@
 # submodule-test
 
-1
+2
